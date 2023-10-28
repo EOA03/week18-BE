@@ -24,4 +24,6 @@ Routes of this project:
   - DELETE `/:username/:todoId` : for user to delete a todo list by their username and todo id
   - DELETE `/:todoId` : for admin to delete a todo list
 
+There are also have some routes about click-jacking.
+
 I'm sorry, I run out off time, so I don't make the documentation API. That's all the endpoint of the project. Thankyou
